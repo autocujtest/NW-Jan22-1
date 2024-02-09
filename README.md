@@ -31,7 +31,7 @@ dependencies unless the `--noInstall` flag was used.
 
 ## `@pantheon-systems` npm Packages
 
-## `@pantheon-systems/wordpress-kit` npm package
+## `@pantheon-systems/wordpress-kit` npm package....
 
 The Pantheon
 [`@pantheon-systems/wordpress-kit`](https://www.npmjs.com/package/@pantheon-systems/wordpress-kit)
